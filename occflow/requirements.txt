@@ -1,0 +1,6 @@
+# 핵심 (Colab 재현 환경의 버전과 맞춰 사용: numpy 1.23.5, scipy 1.13.1)
+numpy
+scipy
+# 선택
+opencv-python      # tools/visualize_event.py
+trackeval==1.0.0   # occflow/integration/evaluate_modes.py (재현 노트북과 같은 버전, 별도 venv 권장)

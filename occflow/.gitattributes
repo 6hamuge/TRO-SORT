@@ -1,0 +1,6 @@
+# Linux/WSL 에서 실행하는 스크립트와 코드는 항상 LF
+*.sh   text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
+*.html text eol=lf
+*.jpg  binary
